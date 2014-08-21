@@ -5,7 +5,6 @@ This README outlines the details of collaborating on this Ember application.
 ## Sessions
 
 1. **Kickoff** - _8/21_
-
   * Setup Ember-CLI project.
   * Show how to import external dependecies from bower (leaflet/bootstrap)
     Note: npm dependencies didn't work for us
